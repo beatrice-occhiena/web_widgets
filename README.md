@@ -11,7 +11,7 @@ Here I save a bunch of useful html code snippets for personalized notion widgets
   - the digit 2 will never be recognized
   - resulting accuracy = 89.0%
 */
-...
+
 // MANUAL FAULT INJECTION
 //***************************************************************************
 let fault_type: FaultType = FaultType::StuckAt1;
